@@ -20,8 +20,9 @@ Se debe crear un repositorio en github con un archivo de nombre **db.json**. Que
 
 
 Para acceder al json seria la URL:
-```
-my-json-server.typicode.com/usuario-github/nombre-repositorio/nombre-json
-```
+
+[my-json-server.typicode.com/usuario-github/nombre-repositorio/nombre-json]()
+
+Ej: [http://my-json-server.typicode.com/LidiaRamirez/json-cursos/cursos](http://my-json-server.typicode.com/LidiaRamirez/json-cursos/cursos)
 
 **Fuente**: [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
